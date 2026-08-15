@@ -9,7 +9,7 @@ describe('Módulo API - Reqres', () => {
 
     it('CP01 - Crear usuario y consultar usuario creado', () => {
    
-        
+        //Validar POST 
         
         const user = {
             name: 'Karen ospina 1',
