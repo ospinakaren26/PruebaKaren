@@ -41,7 +41,7 @@ describe('Módulo API - Reqres', () => {
             cy.log(`Usuario creado con ID: ${userId}`);
 
       
-            // Consultar usuario creado
+        
             
 
             cy.request({
